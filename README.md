@@ -1,2 +1,2 @@
 # sg-casa.com
-Server Gannouti Thuis
+Server Thuis
